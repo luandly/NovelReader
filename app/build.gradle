@@ -71,6 +71,6 @@ dependencies {
     // AndroidTagGroup
     implementation 'me.gujun.android.taggroup:library:1.4@aar'
     // Android Leak Analysis
-    releaseImplementation 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
-    debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.5.4'
+//    releaseImplementation 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
+//    debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.5.4'
 }
